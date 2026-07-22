@@ -80,3 +80,8 @@ hilft lediglich, bereits gekaufte Karten abzuspielen.
 CC0 1.0 Universal — siehe [`LICENSE`](LICENSE) und [`NOTICE.md`](NOTICE.md).
 Nutze es, verändere es, gib es weiter. Es braucht keine Erlaubnis und keine
 Nennung.
+
+## Bau der App
+
+Die APP wurde vollständig von KI geschrieben. Ich habe mein bestes getan den code zu prüfen und abzusicher, kann aber
+für nichts garantieren
